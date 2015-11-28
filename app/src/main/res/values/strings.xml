@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RandomBibleVerse</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Click the button below to view a random Bible verse!</string>
+    <string name="randomVerseBtn">Random Verse</string>
+    <string name="Verse1">Learn to do right; seek justice. Defend the oppressed. Take up the cause of the fatherless; plead the case of the widow.</string>
+    <string name="Verse2">Accept the one whose faith is weak, without quarreling over disputable matters.</string>
+    <string name="Verse3">Put on the full armor of God, so that you can take your stand against the devil’s schemes.</string>
+</resources>
